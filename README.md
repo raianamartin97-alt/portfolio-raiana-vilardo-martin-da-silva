@@ -136,6 +136,10 @@ https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707 |
 |--------|----------|------|
 |Construção de Portfólio Profissional no GitHub| https://github.com/raianamartin97-alt/potifolio_-/blob/main/README.md |
 
+| Projeto | Descrição | Link |
+|--------|----------|------|
+|Desenvolvimento de App de Videoconferência com Manus AI e Jitsi| Aplicativo Android de mentoria para desenvolvedores com videoconferência via Jitsi Meet e suporte inteligente com Manus AI para sugestões em tempo real.|
+
 ---
 
 ## 📌 Principais Aprendizados
