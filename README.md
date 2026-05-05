@@ -7,21 +7,29 @@
 
 ## 📫 Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiana-vilardo-188535295)
+<p align="center">
+  <a href="https://www.linkedin.com/in/raiana-vilardo-188535295">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raianamartin97-alt)
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+  <a href="https://github.com/raianamartin97-alt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação na UNICID**, atualmente no **2º semestre**, com interesse em desenvolvimento de software, Inteligência Artificial e soluções digitais inovadoras.
+Sou estudante de **Ciência da Computação na UNICID**, atualmente no **2º semestre**, com interesse em desenvolvimento de software, Inteligência Artificial e criação de soluções digitais inovadoras.
 
 Tenho direcionado minha formação para projetos práticos envolvendo **engenharia de prompt, desenvolvimento web, modelagem de sistemas e aplicações com IA**.
 
-Busco oportunidade de estágio para aplicar meus conhecimentos, aprender com desafios reais e evoluir profissionalmente.
+Busco oportunidade de estágio para aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
 
 ---
 
@@ -78,8 +86,8 @@ Busco oportunidade de estágio para aplicar meus conhecimentos, aprender com des
 | **Sistema de Gestão para Mecânica** | Sistema acadêmico para gerenciamento de serviços mecânicos com foco em lógica e modelagem funcional. | HTML, JavaScript | [Acessar](https://github.com/CauanDev00/ProjetoMecanica) |
 | **Engenharia Reversa com IA** | Reflexão crítica sobre limites éticos entre aprendizado, inspiração e plágio digital com IA. | IA, Análise Crítica | Projeto acadêmico |
 | **Do Clone ao MVP** | Projeto voltado à adaptação ética de referências digitais para construção de MVPs funcionais. | IA, Prototipagem | [Acessar](https://github.com/raianamartin97-alt/neosoftui-studio_) |
-| **Engenharia de Software + Bubble.io** | Modelagem de sistema com ferramenta no-code e estruturação de relacionamentos funcionais. | Bubble.io, Modelagem | [Acessar](https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707) |
-| **Portfólio Profissional GitHub** | Organização de portfólio técnico para apresentação profissional e centralização de projetos. | GitHub, Markdown | [Acessar](https://github.com/raianamartin97-alt/potifolio_-) |
+| **Engenharia de Software + Bubble.io** | Modelagem de sistema com ferramenta no-code e estruturação funcional. | Bubble.io, Modelagem | [Acessar](https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707) |
+| **Portfólio Profissional GitHub** | Organização técnica de portfólio para apresentação profissional. | GitHub, Markdown | [Acessar](https://github.com/raianamartin97-alt/potifolio_-) |
 
 ---
 
