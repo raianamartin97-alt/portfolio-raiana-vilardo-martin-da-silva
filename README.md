@@ -17,11 +17,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação na UNICID**, com interesse em desenvolvimento de software, Inteligência Artificial e criação de soluções digitais.
+Sou estudante de **Ciência da Computação na UNICID**, atualmente no **2º semestre**, com interesse em desenvolvimento de software, Inteligência Artificial e soluções digitais inovadoras.
 
-Tenho direcionado meus estudos para projetos práticos envolvendo **engenharia de prompt, desenvolvimento web, análise crítica de IA e prototipação de sistemas**.
+Tenho direcionado minha formação para projetos práticos envolvendo **engenharia de prompt, desenvolvimento web, modelagem de sistemas e aplicações com IA**.
 
-Busco oportunidade de estágio para transformar conhecimento acadêmico em experiência profissional.
+Busco oportunidade de estágio para aplicar meus conhecimentos, aprender com desafios reais e evoluir profissionalmente.
 
 ---
 
@@ -29,14 +29,14 @@ Busco oportunidade de estágio para transformar conhecimento acadêmico em exper
 
 - HTML
 - JavaScript
-- Engenharia de Prompt
 - Inteligência Artificial
-- Machine Learning básico
+- Engenharia de Prompt
 - XML
+- Machine Learning básico
+- Prototipagem
 - UX/UI
 - Figma
 - GitHub
-- Prototipagem
 
 ---
 
@@ -44,9 +44,9 @@ Busco oportunidade de estágio para transformar conhecimento acadêmico em exper
 
 - Pensamento analítico
 - Resolução de problemas
-- Trabalho em equipe
 - Organização
 - Comunicação
+- Trabalho em equipe
 - Aprendizado contínuo
 
 ---
@@ -62,7 +62,7 @@ Busco oportunidade de estágio para transformar conhecimento acadêmico em exper
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### IA
+### Inteligência Artificial
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -70,147 +70,37 @@ Busco oportunidade de estágio para transformar conhecimento acadêmico em exper
 
 # 📂 Projetos
 
----
-
-## 🔧 Sistema de Gestão para Mecânica
-
-Projeto acadêmico em equipe voltado à modelagem de um sistema para gerenciamento de serviços mecânicos.
-
-**Aprendizados:**
-- Estruturação lógica
-- Organização de funcionalidades
-- Desenvolvimento colaborativo
-
-🔗  
-https://github.com/CauanDev00/ProjetoMecanica
-
----
-
-## 🧠 Laboratório de Classificação Visual
-
-Projeto utilizando Machine Learning com Teachable Machine para classificação visual.
-
-Incluiu estudo crítico sobre **viés algorítmico**, impactos sociais e mitigação através de supervisão humana.
-
-**Competências aplicadas:**
-- Treinamento de modelos
-- Classificação visual
-- Ética em IA
-
-🔗  
-https://teachablemachine.withgoogle.com/models/HNAQwVhHE/
-
----
-
-## 🤖 Batalha de Modelos & Engenharia de Prompt
-
-Projeto comparativo entre modelos de IA utilizando prompts estruturados em XML para geração de páginas web.
-
-**Modelos avaliados:**
-- ChatGPT
-- Gemini
-- DeepSeek
-- Qwen
-- Grok
-- Claude
-
-**Foco do projeto:**
-- Comparação de desempenho
-- Precisão
-- Consumo de tokens
-- Qualidade estrutural
-
----
-
-## 🔍 Engenharia Reversa com IA
-
-Análise crítica sobre o impacto da IA no papel do desenvolvedor júnior.
-
-Discussão sobre:
-- Engenharia reversa ética
-- Limites entre aprendizado e plágio
-- Uso responsável de IA
-
----
-
-## 🚀 Do Clone ao Produto Mínimo Viável
-
-Projeto sobre transformação ética de referências existentes em MVPs funcionais.
-
-**Conceitos aplicados:**
-- Prototipagem
-- Estruturação de produto
-- Ética digital
-
-🔗  
-https://github.com/raianamartin97-alt/neosoftui-studio_
-
----
-
-## 🏗 Engenharia de Software + IA com Bubble.io
-
-Projeto de modelagem de sistema utilizando ferramentas no-code e IA aplicada.
-
-**Foco:**
-- Relacionamento entre entidades
-- Estruturação de sistema
-- Arquitetura funcional
-
-🔗  
-https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707
-
----
-
-## 🌐 Portfólio Profissional no GitHub
-
-Construção e organização deste portfólio profissional.
-
-**Objetivo:**
-Centralizar projetos acadêmicos e demonstrar evolução técnica.
-
-🔗  
-https://github.com/raianamartin97-alt/potifolio_-
-
----
-
-## 📱 DevMentor AI
-
-Aplicativo Android de mentoria para desenvolvedores.
-
-**Recursos:**
-- Videoconferência com Jitsi Meet
-- Suporte inteligente com IA
-- Sugestões em tempo real
-
-🔗  
-https://github.com/raianamartin97-alt/devmentor-ai
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|------------|------|
+| **DevMentor AI** | Aplicativo Android com videoconferência integrada via Jitsi Meet e suporte inteligente com IA para mentoria técnica. | Android, IA, Jitsi Meet | [Acessar](https://github.com/raianamartin97-alt/devmentor-ai) |
+| **Batalha de Modelos & Engenharia de Prompt** | Projeto comparativo entre diferentes modelos de IA utilizando prompts XML para geração automatizada de páginas web. | XML, Engenharia de Prompt, IA | Projeto acadêmico |
+| **Laboratório de Classificação Visual** | Desenvolvimento de modelo de classificação visual com estudo sobre viés algorítmico e ética em IA. | Machine Learning, IA | [Acessar](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
+| **Sistema de Gestão para Mecânica** | Sistema acadêmico para gerenciamento de serviços mecânicos com foco em lógica e modelagem funcional. | HTML, JavaScript | [Acessar](https://github.com/CauanDev00/ProjetoMecanica) |
+| **Engenharia Reversa com IA** | Reflexão crítica sobre limites éticos entre aprendizado, inspiração e plágio digital com IA. | IA, Análise Crítica | Projeto acadêmico |
+| **Do Clone ao MVP** | Projeto voltado à adaptação ética de referências digitais para construção de MVPs funcionais. | IA, Prototipagem | [Acessar](https://github.com/raianamartin97-alt/neosoftui-studio_) |
+| **Engenharia de Software + Bubble.io** | Modelagem de sistema com ferramenta no-code e estruturação de relacionamentos funcionais. | Bubble.io, Modelagem | [Acessar](https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707) |
+| **Portfólio Profissional GitHub** | Organização de portfólio técnico para apresentação profissional e centralização de projetos. | GitHub, Markdown | [Acessar](https://github.com/raianamartin97-alt/potifolio_-) |
 
 ---
 
 ## 📌 Principais Aprendizados
 
-Ao longo desses projetos, desenvolvi experiência em:
+Ao longo dos projetos, desenvolvi experiência em:
 
-- Desenvolvimento orientado à solução
-- Estruturação lógica
+- Estruturação lógica de sistemas
 - Engenharia de Prompt
-- IA aplicada
-- Prototipação
-- Análise crítica de sistemas
+- Inteligência Artificial aplicada
+- Machine Learning introdutório
+- Prototipação digital
+- Desenvolvimento orientado à solução
+- Análise crítica de tecnologias
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como estagiária na área de tecnologia, contribuindo com projetos inovadores e evoluindo tecnicamente em desenvolvimento de software e Inteligência Artificial.
+Atuar como estagiária na área de tecnologia, contribuindo com projetos inovadores e evoluindo tecnicamente em **desenvolvimento de software e Inteligência Artificial**.
 
 ---
 
-⭐ Obrigada por visitar meu portfólio!
----
-
-<div align="center">
-
-### Obrigada pela visita ao meu portfólio ⭐
-
-</div>
+⭐ Obrigada por visitar meu portfólio.
