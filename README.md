@@ -136,15 +136,6 @@ https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707 |
 |--------|----------|------|
 |Construção de Portfólio Profissional no GitHub| https://github.com/raianamartin97-alt/potifolio_-/blob/main/README.md |
 
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📌 Principais Aprendizados
