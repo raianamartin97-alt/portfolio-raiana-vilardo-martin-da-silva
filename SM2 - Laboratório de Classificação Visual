@@ -1,0 +1,23 @@
+Mecanismo do Viés
+
+
+
+O viés em algoritmos acontece quando o sistema aprende usando um conjunto de dados que é muito pequeno ou que não representa bem a diversidade da realidade. Quando isso acontece, o algoritmo passa a reconhecer apenas os padrões que estavam nesses dados usados no treinamento. Assim, quando ele recebe novas informações que são diferentes desses padrões, pode acabar classificando de forma errada. Isso ocorre porque o funcionamento do algoritmo depende diretamente dos dados que ele recebeu. Se esses dados não representam bem a realidade, o modelo pode criar uma visão distorcida do mundo.
+
+
+
+Consequência Social
+
+
+
+Quando um sistema com viés toma decisões erradas sobre uma pessoa, as consequências podem ser bem sérias. Não é apenas um erro técnico, pois isso pode afetar diretamente a vida das pessoas. Por exemplo, alguém pode deixar de conseguir um emprego ou não ter acesso a um serviço mesmo tendo capacidade para isso. Situações assim podem causar sentimentos de injustiça, frustração e exclusão. No ambiente profissional, um candidato pode ser descartado por um sistema automático que não avaliou corretamente seu perfil, mostrando como um problema tecnológico pode gerar impactos sociais importantes.
+
+
+
+Ação Mitigadora
+
+
+
+Uma maneira de diminuir esse problema é utilizar o conceito chamado Human-in-the-loop. Nesse modelo, as pessoas participam do processo junto com a tecnologia. Antes do treinamento do algoritmo, especialistas analisam os dados para verificar se eles representam diferentes perfis e situações. Se perceberem que falta diversidade nos dados, podem incluir novos exemplos ou fazer ajustes. Além disso, mesmo depois que o sistema começa a ser utilizado, os humanos continuam acompanhando os resultados para identificar possíveis erros. Dessa forma, a participação humana ajuda a tornar o sistema mais justo e evita que ele reproduza desigualdades presentes nos dados.
+
+https://teachablemachine.withgoogle.com/models/HNAQwVhHE/
