@@ -87,6 +87,18 @@ Busco oportunidade de estágio para aplicar meus conhecimentos, adquirir experi�
 | **Do Clone ao MVP** | Projeto voltado à adaptação ética de referências digitais para construção de MVPs funcionais. | IA, Prototipagem | [Acessar](https://github.com/raianamartin97-alt/neosoftui-studio_) |
 | **Engenharia de Software + Bubble.io** | Modelagem de sistema com ferramenta no-code e estruturação funcional. | Bubble.io, Modelagem | [Acessar](https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707) |
 | **Portfólio Profissional GitHub** | Organização técnica de portfólio para apresentação profissional. | GitHub, Markdown | [Acessar](https://github.com/raianamartin97-alt/potifolio_-) |
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|------------|------|
+| **DevMentor AI** | Aplicativo Android com videoconferência integrada via Jitsi Meet e suporte inteligente com IA para mentoria técnica. | Android, IA, Jitsi Meet | [Acessar](https://github.com/raianamartin97-alt/devmentor-ai) |
+| **Batalha de Modelos & Engenharia de Prompt** | Projeto comparativo entre diferentes modelos de IA utilizando prompts XML para geração automatizada de páginas web. | XML, Engenharia de Prompt, IA | Projeto acadêmico |
+| **Laboratório de Classificação Visual** | Desenvolvimento de modelo de classificação visual com estudo sobre viés algorítmico e ética em IA. | Machine Learning, IA | [Acessar](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
+| **Engenharia Reversa com IA** | Reflexão crítica sobre limites éticos entre aprendizado, inspiração e plágio digital com IA. | IA, Análise Crítica | Projeto acadêmico |
+| **Do Clone ao MVP** | Projeto voltado à adaptação ética de referências digitais para construção de MVPs funcionais. | IA, Prototipagem | [Acessar](https://github.com/raianamartin97-alt/neosoftui-studio_) |
+| **Engenharia de Software + Bubble.io** | Modelagem de sistema com ferramenta no-code e estruturação funcional. | Bubble.io, Modelagem | [Acessar](https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707) |
+| **Projeto Música & IA** | EP experimental com 5 faixas inéditas geradas com Gemini Gems e Suno AI, explorando criatividade musical assistida por Inteligência Artificial. | Gemini, Suno AI, Prompt Engineering, IA | [Acessar](https://github.com/raianamartin97-alt/projeto-musica-ia) |
+| **Portfólio Profissional GitHub** | Organização técnica de portfólio para apresentação profissional. | GitHub, Markdown | [Acessar](https://github.com/raianamartin97-alt/portfolio) |
+
+---
 
 ---
 
