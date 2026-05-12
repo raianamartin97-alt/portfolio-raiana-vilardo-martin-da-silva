@@ -1,1 +1,199 @@
-https://github.com/raianamartin97-alt/projeto-musica-ia.
+
+# 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
+
+![GitHub language count](https://img.shields.io/github/languages/count/raianamartin97-alt/projeto-musica-ia?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/raianamartin97-alt/projeto-musica-ia?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+
+---
+
+## 📝 Descrição do Projeto
+Este projeto explora a relação entre criatividade humana e Inteligência Artificial através da composição musical generativa.
+
+Utilizando técnicas de **RAG (Retrieval-Augmented Generation)** com Gemini Gems, foi criado um assistente especializado em análise lírica e composição inspirada em artistas de referência. A partir disso, foram desenvolvidas 5 músicas inéditas, com letras geradas pela IA e produção musical realizada utilizando o Suno AI.
+
+O projeto combina:
+- Engenharia de Prompt
+- Inteligência Artificial Generativa
+- Produção Musical Assistida
+- Modelagem de estilo artístico
+- Geração automática de áudio
+
+---
+
+# 🎯 Objetivos da Atividade
+A atividade teve como principais objetivos:
+
+- Explorar IA Generativa aplicada à música.
+- Criar letras inspiradas em artistas específicos.
+- Utilizar Gemini Gems para modelagem textual.
+- Produzir faixas completas utilizando Suno AI.
+- Desenvolver um fluxo criativo entre humano e IA.
+- Organizar um projeto musical completo no GitHub.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+| Ferramenta | Função |
+|---|---|
+| Gemini Gems | Base de conhecimento e geração das letras |
+| Suno AI | Produção musical e geração de áudio |
+| GitHub | Organização e versionamento |
+| Engenharia de Prompt | Refinamento de instruções |
+| RAG | Modelagem contextual das letras |
+
+---
+
+# 🚀 Assistente Personalizado (Gemini Gems)
+
+O assistente criado no Gemini foi configurado para:
+- analisar letras do artista de referência
+- identificar padrões de escrita
+- reproduzir métrica e estilo lírico
+- gerar letras inéditas mantendo coerência artística
+
+## 🔗 Link do Projeto
+[Projeto Música IA no GitHub](https://github.com/raianamartin97-alt/projeto-musica-ia)
+
+---
+
+# 🎧 Músicas Geradas
+
+| Faixa | Título | Estilo/Referência | Áudio |
+|---|---|---|---|
+| 01 | Música 01 | Estilo inspirado no artista base | MP3 |
+| 02 | Música 02 | Estilo inspirado no artista base | MP3 |
+| 03 | Música 03 | Estilo inspirado no artista base | MP3 |
+| 04 | Música 04 | Estilo inspirado no artista base | MP3 |
+| 05 | Música 05 | Estilo inspirado no artista base | MP3 |
+
+---
+
+# 🧠 Processo de Criação
+
+## 1️⃣ Curadoria de Referências
+Foram selecionadas letras do artista de referência para alimentar o Gemini Gems e construir uma base de conhecimento contextual.
+
+O objetivo foi ensinar à IA:
+- vocabulário
+- estilo
+- métrica
+- temática
+- estrutura lírica
+
+---
+
+## 2️⃣ Engenharia de Prompt
+As instruções do Gems foram refinadas para que o assistente:
+- simulasse o estilo do artista
+- mantivesse coerência textual
+- criasse letras inéditas
+- evitasse simples cópia das referências
+
+---
+
+## 3️⃣ Geração das Letras
+Foram criadas 5 letras inéditas utilizando temas novos, mas preservando:
+- identidade artística
+- construção poética
+- ritmo textual
+- estilo musical
+
+---
+
+## 4️⃣ Produção Musical com Suno AI
+Cada letra foi enviada ao Suno AI para geração de:
+- instrumental
+- voz
+- arranjos
+- estrutura musical completa
+
+Os prompts foram ajustados para:
+- combinar gênero musical
+- controlar atmosfera sonora
+- melhorar qualidade do resultado final
+
+---
+
+# 🎼 Estrutura do Projeto
+
+```text
+projeto-musica-ia/
+│
+├── README.md
+├── letras/
+│   ├── musica1.txt
+│   ├── musica2.txt
+│   ├── musica3.txt
+│   ├── musica4.txt
+│   └── musica5.txt
+│
+├── audio/
+│   ├── musica1.mp3
+│   ├── musica2.mp3
+│   ├── musica3.mp3
+│   ├── musica4.mp3
+│   └── musica5.mp3
+```
+
+---
+
+# 📚 Aprendizados
+Durante a atividade, foi possível compreender que:
+
+- IA pode atuar como ferramenta criativa.
+- Engenharia de Prompt influencia diretamente a qualidade artística.
+- Modelos generativos conseguem reproduzir estilos musicais complexos.
+- A criatividade humana continua sendo importante na direção artística.
+- O refinamento de prompts é essencial para resultados consistentes.
+
+---
+
+# ⚖️ Reflexão sobre IA e Criatividade
+A atividade mostrou que a Inteligência Artificial não substitui completamente o artista ou produtor musical.
+
+A IA funciona como:
+- ferramenta de apoio criativo
+- acelerador de produção
+- auxílio técnico
+
+Mas ainda depende da direção humana para:
+- definir identidade artística
+- selecionar referências
+- validar qualidade
+- construir originalidade
+
+O resultado final surge da colaboração entre criatividade humana e tecnologia generativa.
+
+---
+
+# 🏆 Conclusão
+O projeto demonstrou o potencial das ferramentas de IA Generativa aplicadas à produção musical.
+
+A combinação entre Gemini Gems e Suno AI permitiu criar um fluxo completo de:
+- análise de estilo
+- composição de letras
+- geração de áudio
+- organização profissional do projeto
+
+Além disso, a experiência reforçou a importância da Engenharia de Prompt como habilidade essencial para criação de conteúdo com Inteligência Artificial.
+
+---
+
+## 👨‍💻 Desenvolvido por
+[Raiana Martin](https://github.com/raianamartin97-alt)
+
+---
+
+## 📎 Arquivos do Projeto
+- Letras geradas pela IA
+- Arquivos MP3 das músicas
+- README profissional
+- Estrutura organizada no GitHub
+
+---
+
+## 📌 Observação
+Este projeto possui fins acadêmicos e educacionais, com foco em Inteligência Artificial Generativa, Engenharia de Prompt, produção musical assistida e criatividade computacional
+.https://github.com/raianamartin97-alt/projeto-musica-ia.
