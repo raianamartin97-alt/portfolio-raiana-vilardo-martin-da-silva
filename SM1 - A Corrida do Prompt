@@ -1,1 +1,131 @@
+# Prompt Engineering Challenge 🚀🤖
+
+## 📌 Sobre o Projeto
+Este repositório apresenta a atividade prática de **Engenharia de Prompt**, desenvolvida em grupo, utilizando o modelo de IA da plataforma [Qwen AI](https://qwen.ai/).
+
+O objetivo da dinâmica foi aprender a construir prompts mais precisos e eficientes, refinando instruções para obter resultados de alta qualidade em poucas tentativas.
+
+---
+
+## 🎯 Objetivo da Atividade
+Cada trio recebeu um “alvo” definido pelo professor e teve apenas **5 tentativas (iterações)** para alcançar o resultado ideal utilizando Inteligência Artificial.
+
+Os desafios propostos foram:
+
+- 🖼️ **Imagem:**  
+  “Um astronauta estilo barroco tocando violoncelo em Marte.”
+
+- ✉️ **Texto:**  
+  “Um e-mail formal de desculpas de um pirata para um rei.”
+
+---
+
+## 🧠 Conceitos Trabalhados
+Durante a atividade, praticamos:
+
+- Engenharia de Prompt
+- Refinamento de instruções
+- Comunicação com modelos de linguagem (LLMs)
+- Análise crítica de respostas geradas por IA
+- Iteração e melhoria contínua
+- Escrita descritiva e contextualização
+
+---
+
+## ⚙️ Plataforma Utilizada
+- [Qwen AI](https://qwen.ai/)
+- Modelo utilizado: **Qwen3.5-Plus**
+
+---
+
+## 🔄 Dinâmica da Atividade
+A cada resposta gerada pela IA, o grupo precisava:
+
+### 1️⃣ Avaliar
+Analisar criticamente o resultado:
+- O tom estava correto?
+- Algum detalhe foi ignorado?
+- A resposta estava próxima do objetivo?
+- O prompt precisava ser mais específico?
+
+### 2️⃣ Integrar
+Aplicar o aprendizado no próximo prompt:
+- Ajustar palavras-chave
+- Inserir contexto adicional
+- Refinar estilo e detalhes
+- Corrigir ambiguidades
+
+---
+
+## 📜 Regras da Atividade
+- Máximo de **5 prompts**
+- Registrar cada tentativa
+- Comparar evolução entre os resultados
+- Discutir os erros e acertos ao final
+
+---
+
+# 🖼️ Desafio 1 — Astronauta Barroco em Marte
+
+## Prompt Utilizado
+> “Imagem de astronauta estilo barroco tocando violoncelo em Marte. Não é permitido trocar o instrumento, planeta ou inserir algo novo que não foi solicitado. Imagem em qualidade avançada. Acrescente mais elementos referentes ao Barroco. Além disso, adicione elementos que indiquem que o planeta é Marte.”
+
+## Objetivo
+Gerar uma imagem artística que combinasse:
+- Estética barroca
+- Ficção científica
+- Fidelidade ao tema solicitado
+- Elementos visuais claros do planeta Marte
+
+---
+
+# ✉️ Desafio 2 — Carta de Desculpas do Pirata
+
+## Objetivo
+Criar uma carta formal e emocional de um pirata destinada a um rei, demonstrando arrependimento verdadeiro.
+
+## Resultado Obtido
+O texto gerado apresentou:
+- Linguagem formal
+- Tom dramático e emocional
+- Narrativa coerente
+- Escrita criativa e imersiva
+
+Trecho do resultado:
+
+> “Não escrevo para pedir perdão. Sei que há dívidas que o ouro não paga e que a morte de uma inocente deixa sombras que nenhuma carta ilumina...”
+
+---
+
+## 📚 Aprendizados
+Durante a atividade, percebemos que:
+- Pequenas mudanças nas palavras alteram significativamente o resultado.
+- Contexto e especificidade tornam os prompts mais eficientes.
+- Prompts bem estruturados economizam tentativas.
+- A IA responde melhor quando recebe instruções claras e detalhadas.
+
+---
+
+## 🏆 Conclusão
+A atividade mostrou como a Engenharia de Prompt é essencial para extrair respostas mais precisas e criativas de modelos de IA. Mais do que usar Inteligência Artificial, aprendemos a nos comunicar estrategicamente com ela.
+
+---
+
+## 👨‍💻 Integrantes
+- Nome do integrante 1
+- Nome do integrante 2
+- Nome do integrante 3
+
+---
+
+## 📎 Arquivos do Projeto
+- Prompt da imagem do astronauta
+- Prompt da carta de desculpas
+- Prints das interações
+- Resultados gerados pela IA
+
+---
+
+## 📌 Observação
+Este projeto possui fins acadêmicos e educacionais, com foco no aprendizado de técnicas de Engenharia de Prompt e interação com modelos de Inteligência Artificial.
 https://github.com/raianamartin97-alt/SM1---A-Corrida-do-Prompt
