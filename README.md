@@ -94,7 +94,7 @@ Busco oportunidade de estágio para aplicar meus conhecimentos, adquirir experi�
 | **Do Clone ao MVP** | Projeto voltado à adaptação ética de referências digitais para construção de MVPs funcionais. | IA, Prototipagem | [Acessar](https://github.com/raianamartin97-alt/neosoftui-studio_) |
 | **Engenharia de Software + Bubble.io** | Modelagem de sistema com ferramenta no-code e estruturação funcional. | Bubble.io, Modelagem | [Acessar](https://atoms.dev/app/f1e88e5b172b448f81e6d8ee85f8f707) |
 | **Projeto Música & IA** | EP experimental com 5 faixas inéditas geradas com Gemini Gems e Suno AI, explorando criatividade musical assistida por Inteligência Artificial. | Gemini, Suno AI, Prompt Engineering, IA | [Acessar](https://github.com/raianamartin97-alt/projeto-musica-ia) |
-| **A Corrida do Prompt** | [Acessar](https://github.com/raianamartin97-alt/)
+| **A Corrida do Prompt** | Análise da interface desktop da Shopee com propostas de melhoria focadas em usabilidade e experiência do usuário.| Figma, Design Thinking, UX/UI Design, ChatGPT, Gemini, Prototipagem.| [Acessar](https://github.com/raianamartin97-alt/)
 | **Portfólio Profissional GitHub** | Organização técnica de portfólio para apresentação profissional. | GitHub, Markdown | [Acessar](https://github.com/raianamartin97-alt/portfolio) |
 
 ---
