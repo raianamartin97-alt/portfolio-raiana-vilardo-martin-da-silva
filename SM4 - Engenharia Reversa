@@ -1,10 +1,138 @@
+# Engenharia Reversa com IA & Desenvolvimento Assistido 🤖💻
 
-Na minha visão, com o uso de IA como o Google Gemini, o papel do programador júnior está mudando bastante. Antes o foco era mais em escrever código, mas agora é mais importante entender como o sistema funciona, como os processos acontecem e saber orientar a IA para gerar soluções. Por isso, algumas habilidades se tornam essenciais, como o pensamento lógico para entender os problemas, a engenharia de prompt para saber pedir corretamente para a IA, e o pensamento crítico para analisar se o que foi gerado está certo ou não.
+## 📌 Sobre o Projeto
+Este repositório apresenta uma atividade prática focada em desenvolvimento de software assistido por Inteligência Artificial, utilizando o Google Gemini no Google AI Studio para reconstruir um aplicativo web a partir apenas da observação de sua interface visual.
 
+O desafio consistiu em analisar um sistema já existente, identificar suas funcionalidades e recriar um aplicativo semelhante sem acessar o código-fonte original.
 
+---
 
-Sobre a questão da engenharia reversa com IA, acredito que ela é válida quando usada para aprendizado, como recriar um sistema para entender seu funcionamento. Porém, passa a ser plágio quando a pessoa simplesmente copia quase tudo (interface, funcionalidades) e não traz nenhuma inovação. Uma forma de evitar isso é seguir uma ideia como a “regra dos 30%”, ou seja, sempre modificar ou acrescentar algo relevante no projeto.
+## 🎯 Objetivos da Atividade
+A atividade teve como principais objetivos:
 
+- Desenvolver habilidades de análise de interfaces.
+- Utilizar Inteligência Artificial como apoio no desenvolvimento Full-Stack.
+- Aplicar conceitos de Engenharia de Prompt.
+- Compreender lógica de negócio observando apenas a interface do usuário.
+- Refletir sobre ética, plágio e engenharia reversa utilizando IA.
 
+---
 
-Resumindo, a IA não substitui o programador, mas exige que ele evolua. Quem souber pensar, analisar e usar a IA de forma correta vai se destacar, enquanto quem só copiar pode acabar ficando para trás.
+# 🧠 Etapas do Processo
+
+## 🔍 1 — Análise do WebApp
+Primeiramente, foi realizado o acesso ao aplicativo de referência para analisar:
+
+- Componentes visuais
+- Layout da interface
+- Funcionalidades disponíveis
+- Fluxos de navegação
+- Regras de negócio aparentes
+- Comportamentos de interação do usuário
+
+O objetivo dessa etapa foi mapear o funcionamento do sistema sem visualizar seu código interno.
+
+---
+
+## ⚙️ 2 — Configuração no Google AI Studio
+No Google AI Studio, foram definidas instruções específicas para o modelo Gemini atuar como um desenvolvedor Full-Stack.
+
+As System Instructions continham:
+- Estrutura dos arquivos HTML, CSS e JavaScript
+- Organização do projeto
+- Comportamento esperado das interações
+- Funcionalidades que deveriam ser reproduzidas
+- Diretrizes visuais e responsividade
+
+---
+
+## 🏗️ 3 — Construção e Validação
+Após a configuração, a IA gerou o aplicativo completo.
+
+O sistema desenvolvido foi:
+- Executado em ambiente de testes
+- Comparado com o aplicativo original
+- Ajustado através de refinamento de prompts
+- Melhorado até alcançar comportamento semelhante ao modelo de referência
+
+---
+
+# 🧩 Tecnologias Utilizadas
+- Google AI Studio
+- Gemini
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+# 🧠 Reflexão Crítica
+
+## 👨‍💻 O Novo Papel do Programador Júnior
+Com o avanço da Inteligência Artificial, o papel do programador júnior está mudando significativamente. Antes, grande parte do trabalho estava focada apenas em escrever código manualmente. Atualmente, torna-se mais importante compreender o funcionamento dos sistemas, entender processos e saber orientar corretamente a IA para gerar soluções eficientes.
+
+Por isso, algumas habilidades passam a ser fundamentais:
+- Pensamento lógico
+- Engenharia de Prompt
+- Capacidade analítica
+- Pensamento crítico
+- Validação de resultados gerados por IA
+
+O desenvolvedor deixa de ser apenas um executor de código e passa a atuar também como analista, curador e estrategista tecnológico.
+
+---
+
+## ⚖️ Engenharia Reversa e Ética
+A engenharia reversa utilizando IA pode ser considerada válida quando aplicada para aprendizado e estudo técnico. Recriar sistemas existentes ajuda no entendimento de arquitetura, lógica de negócio e experiência do usuário.
+
+Por outro lado, a prática pode se transformar em plágio quando ocorre apenas cópia direta de funcionalidades, identidade visual e comportamento do sistema original sem inovação ou adaptação relevante.
+
+Uma abordagem recomendada é aplicar uma “regra dos 30%”, realizando modificações significativas no projeto, adicionando novas ideias, melhorias ou diferenciais próprios.
+
+---
+
+## 🚀 Inteligência Artificial e o Futuro do Desenvolvimento
+A Inteligência Artificial não substitui completamente o programador, mas transforma profundamente sua atuação.
+
+Os profissionais que souberem:
+- Pensar criticamente
+- Resolver problemas
+- Criar prompts eficientes
+- Validar resultados
+- Trabalhar junto com IA
+
+terão maior destaque no mercado de tecnologia.
+
+Enquanto isso, quem depender apenas de copiar soluções prontas pode enfrentar limitações no crescimento profissional.
+
+---
+
+# 📚 Aprendizados
+Durante a atividade, foi possível compreender que:
+
+- A IA acelera o desenvolvimento de software.
+- Engenharia de Prompt influencia diretamente os resultados.
+- O pensamento crítico continua sendo indispensável.
+- A análise de interfaces ajuda no entendimento de sistemas.
+- O programador moderno precisa combinar lógica, criatividade e capacidade analítica.
+
+---
+
+# 🏆 Conclusão
+A atividade demonstrou como a Inteligência Artificial pode atuar como ferramenta de apoio no desenvolvimento de software, permitindo acelerar processos e facilitar a criação de aplicações.
+
+Além disso, reforçou a importância da ética, da criatividade e da análise crítica no uso dessas tecnologias, mostrando que o diferencial do desenvolvedor moderno não está apenas em programar, mas em saber pensar estrategicamente junto da IA.
+
+---
+
+## 📎 Arquivos do Projeto
+- Capturas do aplicativo original
+- Prompts utilizados no Google AI Studio
+- Código gerado pela IA
+- Comparações entre sistema original e reconstruído
+- Documento de reflexão crítica
+
+---
+
+## 📌 Observação
+Este projeto possui fins acadêmicos e educacionais, com foco em Engenharia de Prompt, desenvolvimento assistido por IA, ética tecnológica e análise de sistemas.
