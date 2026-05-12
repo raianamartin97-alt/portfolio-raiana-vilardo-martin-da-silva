@@ -1,23 +1,117 @@
-Mecanismo do Viés
+# Laboratório de Classificação Visual e Ética em IA 🤖⚖️
 
+## 📌 Sobre o Projeto
+Este repositório apresenta uma atividade prática utilizando a plataforma [Teachable Machine](https://teachablemachine.withgoogle.com/) para demonstrar como o viés em conjuntos de dados pode impactar diretamente o comportamento de algoritmos de Inteligência Artificial.
 
+O objetivo do experimento foi compreender, na prática, como sistemas de classificação podem reproduzir estereótipos e gerar decisões injustas quando treinados com dados limitados ou enviesados.
 
-O viés em algoritmos acontece quando o sistema aprende usando um conjunto de dados que é muito pequeno ou que não representa bem a diversidade da realidade. Quando isso acontece, o algoritmo passa a reconhecer apenas os padrões que estavam nesses dados usados no treinamento. Assim, quando ele recebe novas informações que são diferentes desses padrões, pode acabar classificando de forma errada. Isso ocorre porque o funcionamento do algoritmo depende diretamente dos dados que ele recebeu. Se esses dados não representam bem a realidade, o modelo pode criar uma visão distorcida do mundo.
+---
 
+## 🎯 Objetivo da Atividade
+A atividade foi dividida em duas partes:
 
+### 🖼️ Parte 1 — Laboratório de Classificação Visual
+Treinar um modelo de reconhecimento de imagem utilizando categorias criadas propositalmente com dados enviesados.
 
-Consequência Social
+### 🧠 Parte 2 — Memorial de Impacto e Ética
+Refletir sobre:
+- O funcionamento do viés algorítmico
+- Os impactos sociais da tecnologia
+- Possíveis soluções éticas para minimizar esses problemas
 
+---
 
+## ⚙️ Plataforma Utilizada
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- Modelo criado:  
+  [Acessar Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/)
 
-Quando um sistema com viés toma decisões erradas sobre uma pessoa, as consequências podem ser bem sérias. Não é apenas um erro técnico, pois isso pode afetar diretamente a vida das pessoas. Por exemplo, alguém pode deixar de conseguir um emprego ou não ter acesso a um serviço mesmo tendo capacidade para isso. Situações assim podem causar sentimentos de injustiça, frustração e exclusão. No ambiente profissional, um candidato pode ser descartado por um sistema automático que não avaliou corretamente seu perfil, mostrando como um problema tecnológico pode gerar impactos sociais importantes.
+---
 
+# 🖼️ Parte 1 — Laboratório de Classificação Visual
 
+## 📂 Categorias Criadas
+Foram definidas duas classes:
 
-Ação Mitigadora
+- Perfil Liderança
+- Perfil Operacional
 
+---
 
+## 📸 Construção do Dataset
+O modelo foi treinado utilizando 20 imagens para cada categoria, aplicando propositalmente critérios estereotipados:
 
-Uma maneira de diminuir esse problema é utilizar o conceito chamado Human-in-the-loop. Nesse modelo, as pessoas participam do processo junto com a tecnologia. Antes do treinamento do algoritmo, especialistas analisam os dados para verificar se eles representam diferentes perfis e situações. Se perceberem que falta diversidade nos dados, podem incluir novos exemplos ou fazer ajustes. Além disso, mesmo depois que o sistema começa a ser utilizado, os humanos continuam acompanhando os resultados para identificar possíveis erros. Dessa forma, a participação humana ajuda a tornar o sistema mais justo e evita que ele reproduza desigualdades presentes nos dados.
+- “Perfil Liderança”: imagens de homens utilizando roupas sociais ou ternos.
+- “Perfil Operacional”: imagens de mulheres ou pessoas com roupas informais.
 
-https://teachablemachine.withgoogle.com/models/HNAQwVhHE/
+O objetivo foi demonstrar como um conjunto de dados limitado influencia diretamente o comportamento do algoritmo.
+
+---
+
+## 🧪 Teste de Inferência
+Após o treinamento, o modelo foi testado com pessoas que não se encaixavam nos padrões utilizados anteriormente.
+
+Durante os testes, o sistema realizou classificações incorretas devido ao viés presente nos dados de treinamento.
+
+---
+
+## ❌ Registro da Falha
+Foi realizado um print da tela no momento em que o modelo apresentou:
+- Falso positivo
+- Falso negativo
+- Classificação enviesada
+
+Essa evidência demonstra como a IA pode reproduzir preconceitos existentes nos dados fornecidos.
+
+---
+
+# 🧠 Parte 2 — Memorial de Impacto e Ética
+
+## ⚠️ Mecanismo do Viés
+O viés em algoritmos acontece quando o sistema aprende usando um conjunto de dados pequeno ou que não representa corretamente a diversidade da realidade. O algoritmo passa a reconhecer apenas os padrões presentes nesses dados utilizados no treinamento. Dessa forma, quando recebe informações diferentes, realiza classificações incorretas.
+
+Como o funcionamento do modelo depende diretamente dos dados fornecidos, um conjunto enviesado faz com que o sistema desenvolva uma visão distorcida da realidade e tome decisões baseadas em padrões limitados.
+
+---
+
+## 🌍 Consequência Social
+Quando um sistema com viés toma decisões erradas, os impactos podem afetar diretamente a vida das pessoas. Um indivíduo pode perder oportunidades de emprego, ser excluído de processos seletivos ou sofrer discriminação automatizada mesmo possuindo capacidade para determinada função.
+
+Esses erros podem causar sentimentos de injustiça, exclusão e frustração. No ambiente profissional, por exemplo, um candidato pode ser descartado sem uma avaliação humana adequada, demonstrando como falhas técnicas podem gerar consequências sociais importantes.
+
+---
+
+## 🛡️ Ação Mitigadora
+Uma forma de reduzir esse problema é utilizar o conceito de **Human-in-the-loop**, no qual seres humanos participam ativamente do processo junto com a Inteligência Artificial.
+
+Antes do treinamento do modelo, especialistas analisam os dados para verificar se existe diversidade suficiente nas informações coletadas. Caso percebam limitações ou estereótipos, novos exemplos podem ser adicionados ao conjunto de treinamento.
+
+Além disso, após a implementação do sistema, pessoas continuam monitorando os resultados para identificar possíveis erros ou injustiças. Essa participação humana ajuda a tornar o modelo mais equilibrado, transparente e justo.
+
+---
+
+## 📚 Aprendizados
+Durante a atividade, foi possível compreender que:
+- A IA aprende diretamente com os dados fornecidos.
+- Dados enviesados geram resultados enviesados.
+- Sistemas automáticos podem reforçar desigualdades sociais.
+- A supervisão humana é essencial em tecnologias de Inteligência Artificial.
+- Ética e tecnologia precisam caminhar juntas.
+
+---
+
+## 🏆 Conclusão
+O experimento demonstrou que a Inteligência Artificial não é neutra. Os resultados produzidos pelos algoritmos dependem diretamente da qualidade, diversidade e representatividade dos dados utilizados no treinamento.
+
+A atividade reforça a importância da ética no desenvolvimento tecnológico e mostra que a participação humana continua sendo fundamental para evitar injustiças e discriminações automatizadas.
+
+---
+
+## 👨‍💻 Integrantes
+Riana Vilardo Martin da Silva
+Thais Oliveira
+
+---
+
+## 📌 Observação
+Este projeto possui fins acadêmicos e educacionais, com foco no estudo de viés algorítmico, ética em Inteligência Artificial e impacto social das tecnologias automatizadas.
